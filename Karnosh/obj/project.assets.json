@@ -9524,11 +9524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohamad\\source\\repos\\Karnosh\\Karnosh\\Karnosh.csproj",
+      "projectUniqueName": "C:\\Users\\mohamad\\Desktop\\Karnosh\\KarnoshAsp\\Karnosh\\Karnosh.csproj",
       "projectName": "Karnosh",
-      "projectPath": "C:\\Users\\mohamad\\source\\repos\\Karnosh\\Karnosh\\Karnosh.csproj",
+      "projectPath": "C:\\Users\\mohamad\\Desktop\\Karnosh\\KarnoshAsp\\Karnosh\\Karnosh.csproj",
       "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohamad\\source\\repos\\Karnosh\\Karnosh\\obj\\",
+      "outputPath": "C:\\Users\\mohamad\\Desktop\\Karnosh\\KarnoshAsp\\Karnosh\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",

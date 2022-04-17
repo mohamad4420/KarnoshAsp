@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohamad\\source\\repos\\kARNOSH\\Karnosh\\Karnosh.csproj": {}
+    "C:\\Users\\mohamad\\Desktop\\Karnosh\\KarnoshAsp\\Karnosh\\Karnosh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohamad\\source\\repos\\kARNOSH\\Karnosh\\Karnosh.csproj": {
+    "C:\\Users\\mohamad\\Desktop\\Karnosh\\KarnoshAsp\\Karnosh\\Karnosh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohamad\\source\\repos\\kARNOSH\\Karnosh\\Karnosh.csproj",
+        "projectUniqueName": "C:\\Users\\mohamad\\Desktop\\Karnosh\\KarnoshAsp\\Karnosh\\Karnosh.csproj",
         "projectName": "Karnosh",
-        "projectPath": "C:\\Users\\mohamad\\source\\repos\\kARNOSH\\Karnosh\\Karnosh.csproj",
+        "projectPath": "C:\\Users\\mohamad\\Desktop\\Karnosh\\KarnoshAsp\\Karnosh\\Karnosh.csproj",
         "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohamad\\source\\repos\\kARNOSH\\Karnosh\\obj\\",
+        "outputPath": "C:\\Users\\mohamad\\Desktop\\Karnosh\\KarnoshAsp\\Karnosh\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
